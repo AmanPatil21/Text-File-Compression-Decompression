@@ -2,7 +2,7 @@
 
 - Implemented text file compression using LZW compresion technique.
 - This algorithm is typically used in GIF and optionally in PDF and TIFF.
--  Unix’s ‘compress’ command, among other uses.
+- This algorithm is typically used in Unix’s ‘compress’ command, among other uses.
 - It is lossless, meaning no data is lost when compressing. 
 - The algorithm is simple to implement and has the potential for very high throughput in hardware implementations. 
 - It is the algorithm of the widely used in the GIF image format.
