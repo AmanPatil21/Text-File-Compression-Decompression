@@ -20,9 +20,8 @@
 
 # Results :
 - Using this project we can compress up 19 kB of file 
-
-- Output :
-           - Input File Name     :     D:\sycomp\test\1.txt
-           - Input file size     :     2844    bytes
-           - Output file size    :     1670    bytes
-           - Compression Ratio   :     1.70:1
+- 
+- Input File Name     :     D:\sycomp\test\1.txt
+- Input file size     :     2844    bytes
+- Output file size    :     1670    bytes
+- Compression Ratio   :     1.70:1
